@@ -1,0 +1,12 @@
+{
+  "name": "mon-app-pipeline",
+  "version": "1.0.0",
+  "description": "Application pour l'atelier DevSecOps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
